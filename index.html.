@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HIP STUDIO</title>
+  <meta name="theme-color" content="#243d34">
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f7f3e9;
+      color: #243d34;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    h1 { margin-top: 60px; }
+    button {
+      padding: 14px 24px;
+      border: 0;
+      border-radius: 12px;
+      background: #243d34;
+      color: white;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+  <h1>HIP STUDIO</h1>
+  <p>Your mobility. Your strength. Your progress.</p>
+  <p>Welcome to your workout space.</p>
+  <button onclick="alert('HIP STUDIO is working!')">
+    Test my app
+  </button>
+</body>
+</html>
